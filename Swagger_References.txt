@@ -1,0 +1,10 @@
+https://www.youtube.com/watch?v=apouPYPh_as&list=LL&index=2
+https://swagger.io/blog/api-design/openapi-3-0-specification-training/
+https://www.youtube.com/watch?v=mIM-SM-u2BI [used this]
+https://www.youtube.com/watch?v=eiSem0cqaN0 (useful)
+https://www.youtube.com/watch?v=S8kmHtQeflo
+https://blog.learningdollars.com/2020/06/04/how-to-test-and-document-your-apis-using-swagger-in-node-js/
+https://github.com/learningdollars/lakshay-swagger-node-documentation
+
+https://swagger.io/docs/specification/basic-structure/ [official docs]
+https://editor.swagger.io/?_ga=2.85513756.465298210.1621749472-1647120826.1621428539 [swagger_editor]
