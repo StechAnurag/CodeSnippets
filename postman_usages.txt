@@ -1,7 +1,0 @@
-postman usages: 
-1. API documentation
-2. Automated testing
-3. Debugging and manual testing
-4. Monitoring
-5. Designing and mocking APIs
-6. Publishing APIs
