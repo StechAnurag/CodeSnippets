@@ -1,0 +1,12 @@
+For Powershell
+
+$env:NODE_OPTIONS="--openssl-legacy-provider"
+
+
+For Mac/Linux/Git Bash (windows)
+
+export NODE_OPTIONS=--openssl-legacy-provider
+
+
+For Windows cmd
+set NODE_OPTIONS=--openssl-legacy-provider
